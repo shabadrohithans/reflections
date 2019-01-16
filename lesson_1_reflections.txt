@@ -19,4 +19,6 @@ Answer: We use git log to retrieve the commit ides which we want to compare usin
 Question 6: How might using version control make you more confident to make changes that could break something?
 Answer: Since version control stores history of our code we can any time checkout our previous code if any commit break our functionality.
 
-Question 7 : 
+Question 7 : How Do You Want to Use Git?
+Answer: I want to use Git for storing my work at Github and want to contribute to Open Source community through git.
+ 
