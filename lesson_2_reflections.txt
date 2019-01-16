@@ -1,2 +1,5 @@
 Question 1: What happens when you initialize a repository? Why do you need to do it?
 Answer: When we initialize a repository, git starting tracking history of that repository by adding metadata files in that directory. We initialize a repository to track changes of our directory.
+
+Question 2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: Staging are a tempory working directory to commit and add files for git repository. It offers reset command that we may use when accidentially commit or add something to git repository.
